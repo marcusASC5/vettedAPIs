@@ -1,1 +1,12 @@
-gggg
+header{
+
+    font-size: 100px;
+    text-align: center;
+    background: rgb(182, 179, 179);
+    font-family: 'Farro', sans-serif;
+
+}
+
+body{
+    background: rgb(146, 146, 150);
+}
